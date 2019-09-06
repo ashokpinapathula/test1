@@ -1,4 +1,8 @@
 this is for merging
 
+<<<<<<< HEAD
 this is chcking master modification
+=======
+this is checking branch modification
+>>>>>>> branch3
 
